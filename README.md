@@ -51,6 +51,8 @@ python password_tool.py
 ```
 Make sure Python 3 is installed and added to your system PATH.
 
+--- 
+
 ## 🧠 Requirements
 
 - Python 3.x  
