@@ -52,15 +52,20 @@ python password_tool.py
 Make sure Python 3 is installed and added to your system PATH.
 
 ## 🧠 Requirements
+
 - Python 3.x  
 - No external libraries required (random, string, and re are built-in)
 
 ## ⚖️ License
 
-This project is open source and free to use.  
-Feel free to modify and share.
+- This project is open source and free to use.  
+- Feel free to modify and share.
 
-## 🙌 Author
+## 👨‍💻 Author
 
-- Made with ❤️ by Muhammad Hamad  
-- 👨‍🎓 BSCS Student | Cybersecurity & Python Enthusiast
+- Developed by **Muhammad Hamad**  
+- 🛡️ Certified Ethical Hacker | 🔍 Penetration Tester  
+- 💻 Python & C++ Developer  
+- 🌐 [GitHub Profile](https://github.com/Cryp7icSoul/)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/cryp7icsoul/)
+- 🎯 [TryHackMe Profile](https://tryhackme.com/p/Cryp7icSoul)
